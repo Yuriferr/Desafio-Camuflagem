@@ -4,12 +4,6 @@ Este projeto é uma simulação visual, construída em Python, que utiliza um Al
 
 O painel de controle exibe a cor alvo, a cor mais próxima encontrada pela geração atual e um gráfico em tempo real que mostra a evolução da "aptidão" (fitness) ao longo das gerações.
 
-##  демонстрация
-
-![Demonstração do Projeto](https://i.imgur.com/gK9qGHY.png)
-
-*(Recomendo fortemente que você grave um GIF da tela em execução e substitua a imagem acima! Ferramentas como [ScreenToGif](https://www.screentogif.com/) ou [LICEcap](https://www.cockos.com/licecap/) são ótimas para isso.)*
-
 ## 🎯 Funcionalidades
 
 * **Simulação em Tempo Real:** Observe a cor candidata evoluir e se aproximar da cor alvo.
